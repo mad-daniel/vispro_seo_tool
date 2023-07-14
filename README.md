@@ -47,6 +47,14 @@ git clone git@github.com:mad-daniel/vispro_seo_tool.git
 pip install -r requirements.txt
 ```
 
+## Alternativ: Installation mit Docker
+
+Wenn du python nicht lokal installieren willst, dann kannst du auch docker compose benutzen:
+
+```
+docker compose up
+```
+
 ## App starten
 
 Wenn du die oberen Schritte befolgt hast, dann hast du jetzt alle Dateien und Pakete, die du brauchst.
