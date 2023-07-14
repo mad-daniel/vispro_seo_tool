@@ -38,7 +38,7 @@ Kein Problem! Du kannst Python3 [hier](https://www.python.org/downloads/) instal
 **(2.) Jetzt klonst du das GitLab-Repository:**
 
 ```
-git clone git@gitlab.pro-volution.de:daniel.kosbab/vispro.git
+git clone git@github.com:mad-daniel/vispro_seo_tool.git
 ```
 
 **(3.) Fast geschafft. Jetzt noch die Python Pakete installieren:**
